@@ -1,2 +1,2 @@
 def hello():
-  print("Hello from a function refactoring")
+  print("Hello from a function")
